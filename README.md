@@ -5,6 +5,8 @@
 
 [![AI that plays Pong](https://img.youtube.com/vi/aEM6rZ9KWeQ/0.jpg)](https://www.youtube.com/watch?v=aEM6rZ9KWeQ)
 
+(Click picture above for a demo on YouTube. Note: due to color scheme of the original game, color blind people might have trouble watching the video.)
+
 * AI that plays the [Atari Pong game](https://en.wikipedia.org/wiki/Pong).
 * Trained with reinforcement learning.
 * Outperforms the original Atari Pong AI.
