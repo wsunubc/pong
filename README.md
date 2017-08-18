@@ -23,7 +23,7 @@
 
 * `cd` to the directory where `main.py` and `chk` folder are located.
 * Run command: `/opt/anaconda3/bin/python main.py`
-  - Suppose you have installed anaconda 3 at `/opt/anaconda3`
+  - Suppose you have installed anaconda python 3 at `/opt/anaconda3`
 
 ## Future Work
 * Combine supervised learning with reinforcement learning to speedup training.
